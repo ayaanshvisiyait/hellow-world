@@ -1,4 +1,4 @@
 # hellow-world
-hi!
+Hi!
 
-i am a boy.i like to hack.
+I am Ayaansh Visyait.
